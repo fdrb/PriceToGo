@@ -18,17 +18,21 @@
 
 ## Installation
 
-On macOS and Linux:
+Ensure you have the following installed:
+- Python 3
+- sqlite3
+
+Database Setup
+- If you have a CSV file with grocery data, load it into the SQLite database by uncommenting the following line in the script and replace filename.csv with the name of your file:
 
 ```sh
-$ python -m pip install <project-name>
+if __name__ == '__main__':
+    # add_data('PriceToGo.csv', 'PriceToGo.db')
+    main('PriceToGo.db')
 ```
 
-On Windows:
+Or, use the provided database file (PriceToGo.db) for testing.
 
-```sh
-PS> python -m pip install <project-name>
-```
 
 ## Execution / Usage
 
