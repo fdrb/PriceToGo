@@ -1,7 +1,7 @@
 # PriceToGo
 
 
-< Compare product prices from grocery stores using a Python based tool that integrates with an SQL database. The program was created using data from 3 grocery stores near UBC (Save-On-Foods, No Frills and Urban Fare with the goal of enabling students to find the cheaptest prices as easily as possible. >
+< Compare product prices from grocery stores using a Python based tool that integrates with an SQL database. The program was created using data from 3 grocery stores near UBC (Save-On-Foods, No Frills and Urban Fare) with the goal of enabling students to find the cheaptest prices as easily as possible. >
 
 ![image](https://github.com/user-attachments/assets/3173fe45-584e-4624-aac9-ad9d85064a39)
 
