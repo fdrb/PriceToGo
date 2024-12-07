@@ -3,7 +3,8 @@
 
 < Compare product prices from grocery stores using a Python based tool that integrates with an SQL database >
 
-< Add an optional screenshot of your project below >
+![image](https://github.com/user-attachments/assets/3173fe45-584e-4624-aac9-ad9d85064a39)
+
 
 ![]()
 
@@ -36,16 +37,24 @@ Or, use the provided database file (PriceToGo.db) for testing.
 
 ## Execution / Usage
 
-To run < PriceToGo >, fire up a terminal window and run the following command:
+To run < PriceToGo >, fire up a terminal window and execute:
 
 ```sh
-$ <project>
+<PriceToGo.py>
 ```
 
-Here are a few examples of using the < project's name > library in your code:
-
-```python
-from project import Project
+Interactive Menu Options:
+1. Compare prices of a product across stores:
+  - Enter the product name to see its prices in different stores
+  - Sort prices in ascending (asc) or descending (desc) order
+2. Compare prices of products within a store by cateogory
+    - Enter the store name and product category to view all the items in that category
+    - Sort prices in ascending (asc) or descending (desc) order
+3. Display all prices within a store
+  - Enter the store name to display all it's products with their corresponding prices
+  - Sort prices in ascending (asc) or descending (desc) order
+4. Exit
+  - Exit the program
 
 ...
 ```
