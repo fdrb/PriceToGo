@@ -54,7 +54,7 @@ Interactive Menu Options:
     - Enter the store name to display all its products and corresponding prices
     - Sort prices in ascending (asc) or descending (desc) order
 4. Exit
-  - Exit the program
+    - Exit the program
 
 ## Technologies
 
