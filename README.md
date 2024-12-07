@@ -45,14 +45,14 @@ To run < PriceToGo >, fire up a terminal window and execute:
 
 Interactive Menu Options:
 1. Compare prices of a product across stores:
-  - Enter the product name to see its prices in different stores
-  - Sort prices in ascending (asc) or descending (desc) order
+    - Enter the product name to see its prices in different stores
+    - Sort prices in ascending (asc) or descending (desc) order
 2. Compare prices of products within a store by cateogory
     - Enter the store name and product category to view all the items in that category
     - Sort prices in ascending (asc) or descending (desc) order
 3. Display all prices within a store
-  - Enter the store name to display all it's products with their corresponding prices
-  - Sort prices in ascending (asc) or descending (desc) order
+    - Enter the store name to display all its products and corresponding prices
+    - Sort prices in ascending (asc) or descending (desc) order
 4. Exit
   - Exit the program
 
