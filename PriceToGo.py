@@ -126,5 +126,5 @@ def main(db_fn):
 
 
 if __name__ == '__main__':
-    # add_data('compare_grocery_prices updated.csv', 'compare_grocery_prices updated.db')
-    main('compare_grocery_prices updated.db')
+    # add_data('PriceToGo.csv', 'PriceToGo.db')
+    main('PriceToGo.db')
