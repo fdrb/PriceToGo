@@ -56,11 +56,6 @@ Interactive Menu Options:
 4. Exit
   - Exit the program
 
-...
-```
-
-For more examples, please refer to the project's [Wiki](wiki) or [documentation page](docs).
-
 ## Technologies
 
 < PriceToGo > uses the following technologies and tools:
